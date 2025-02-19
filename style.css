@@ -42,10 +42,10 @@ h1 {
 /* Typography */
 figcaption,
 .news-category,
-h2,
+.tribe,
 .author,
 .date {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans";
 }
 
 /* Author and Date */
