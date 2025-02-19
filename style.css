@@ -12,7 +12,7 @@ header, footer {
   color: #fff;
   text-align: center;
 }
-
+.image {width: 100%;}
 /* Logo */
 #logo {
   width: 100px;
